@@ -1,0 +1,7 @@
+{
+    "cmake.configureSettings": {
+        "CMAKE_PREFIX_PATH": "${workspaceFolder}/.deps/Qt/6.11.2/mingw_64"
+    },
+    "cmake.sourceDirectory": "C:/Users/ulise/OneDrive/Desktop/ProyectoDibujo/ProyectoDibujo",
+    "C_Cpp.default.compileCommands": "${workspaceFolder}/build/compile_commands.json"
+}

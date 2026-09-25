@@ -1,0 +1,12 @@
+# Ignorar archivos y carpetas de compilación
+build/
+bin/
+*.exe
+*.obj
+*.o
+CMakeCache.txt
+CMakeFiles/
+
+# Ignorar dependencias locales
+vcpkg/
+.deps/
