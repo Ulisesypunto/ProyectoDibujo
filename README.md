@@ -2,7 +2,7 @@
 
 #DEPENDENCIAS
 C++
-Qt6
+Qt6 6.11.2
 CMake 4.4.3
  -Opcionales (Posiblemente las usemos despues)
  OpenGL/ GLEW/ Glad

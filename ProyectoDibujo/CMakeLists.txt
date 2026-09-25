@@ -21,11 +21,35 @@ list(APPEND CMAKE_PREFIX_PATH
     "C:/Qt/6.11.2/mingw_64"
 )
 
+# Incluir subdirectorios para los #include "..."
+include_directories(src/ui src/canvas src/tools)
+
+# Lista explicita de archivos fuente
+set(PROJECT_SOURCES
+    src/main.cpp
+    src/ui/MainWindow.cpp
+    src/ui/MainWindow.h
+    src/canvas/Canvas.cpp
+    src/canvas/Canvas.h
+    src/canvas/Layer.h
+    src/tools/ITool.h
+    src/tools/BrushTool.cpp
+    src/tools/BrushTool.h
+    src/tools/EraserTool.cpp
+    src/tools/EraserTool.h
+    src/tools/EyedropperTool.cpp
+    src/tools/EyedropperTool.h
+)
+
 # 3. Buscar los componentes necesarios de Qt6
 find_package(Qt6 REQUIRED COMPONENTS Widgets Gui Core)
 
 # 4. Incluir los archivos fuente desde la raiz del proyecto
-file(GLOB SOURCES "*.cpp" "*.h")
+file(GLOB_RECURSE SOURCES CONFIGURE_DEPENDS
+    "${CMAKE_CURRENT_SOURCE_DIR}/*.cpp"
+    "${CMAKE_CURRENT_SOURCE_DIR}/*.h"
+)
+list(FILTER SOURCES EXCLUDE REGEX "/(build|\\.deps|CMakeFiles)/")
 
 add_executable(${PROJECT_NAME} ${SOURCES})
 
