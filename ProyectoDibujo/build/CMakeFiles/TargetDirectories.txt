@@ -1,0 +1,5 @@
+C:/Users/Estudiante/Desktop/ProyectoDibujo/build/CMakeFiles/ProyectoDibujo.dir
+C:/Users/Estudiante/Desktop/ProyectoDibujo/build/CMakeFiles/edit_cache.dir
+C:/Users/Estudiante/Desktop/ProyectoDibujo/build/CMakeFiles/rebuild_cache.dir
+C:/Users/Estudiante/Desktop/ProyectoDibujo/build/CMakeFiles/ProyectoDibujo_autogen_timestamp_deps.dir
+C:/Users/Estudiante/Desktop/ProyectoDibujo/build/CMakeFiles/ProyectoDibujo_autogen.dir
