@@ -1,0 +1,110 @@
+[
+{
+  "directory": "C:/Users/ulise/OneDrive/Desktop/ProyectoDibujo-26w03b/ProyectoDibujo-26w03b/build",
+  "command": "c:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles\\dibujo_lib.dir\\includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\dibujo_lib.dir\\dibujo_lib_autogen\\mocs_compilation.cpp.obj -c C:\\Users\\ulise\\OneDrive\\Desktop\\ProyectoDibujo-26w03b\\ProyectoDibujo-26w03b\\build\\dibujo_lib_autogen\\mocs_compilation.cpp",
+  "file": "C:/Users/ulise/OneDrive/Desktop/ProyectoDibujo-26w03b/ProyectoDibujo-26w03b/build/dibujo_lib_autogen/mocs_compilation.cpp",
+  "output": "CMakeFiles/dibujo_lib.dir/dibujo_lib_autogen/mocs_compilation.cpp.obj"
+},
+{
+  "directory": "C:/Users/ulise/OneDrive/Desktop/ProyectoDibujo-26w03b/ProyectoDibujo-26w03b/build",
+  "command": "c:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles\\dibujo_lib.dir\\includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\dibujo_lib.dir\\src\\core\\Document.cpp.obj -c C:\\Users\\ulise\\OneDrive\\Desktop\\ProyectoDibujo-26w03b\\ProyectoDibujo-26w03b\\ProyectoDibujo\\src\\core\\Document.cpp",
+  "file": "C:/Users/ulise/OneDrive/Desktop/ProyectoDibujo-26w03b/ProyectoDibujo-26w03b/ProyectoDibujo/src/core/Document.cpp",
+  "output": "CMakeFiles/dibujo_lib.dir/src/core/Document.cpp.obj"
+},
+{
+  "directory": "C:/Users/ulise/OneDrive/Desktop/ProyectoDibujo-26w03b/ProyectoDibujo-26w03b/build",
+  "command": "c:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles\\dibujo_lib.dir\\includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\dibujo_lib.dir\\src\\core\\Layer.cpp.obj -c C:\\Users\\ulise\\OneDrive\\Desktop\\ProyectoDibujo-26w03b\\ProyectoDibujo-26w03b\\ProyectoDibujo\\src\\core\\Layer.cpp",
+  "file": "C:/Users/ulise/OneDrive/Desktop/ProyectoDibujo-26w03b/ProyectoDibujo-26w03b/ProyectoDibujo/src/core/Layer.cpp",
+  "output": "CMakeFiles/dibujo_lib.dir/src/core/Layer.cpp.obj"
+},
+{
+  "directory": "C:/Users/ulise/OneDrive/Desktop/ProyectoDibujo-26w03b/ProyectoDibujo-26w03b/build",
+  "command": "c:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles\\dibujo_lib.dir\\includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\dibujo_lib.dir\\src\\core\\commands\\LayerCommands.cpp.obj -c C:\\Users\\ulise\\OneDrive\\Desktop\\ProyectoDibujo-26w03b\\ProyectoDibujo-26w03b\\ProyectoDibujo\\src\\core\\commands\\LayerCommands.cpp",
+  "file": "C:/Users/ulise/OneDrive/Desktop/ProyectoDibujo-26w03b/ProyectoDibujo-26w03b/ProyectoDibujo/src/core/commands/LayerCommands.cpp",
+  "output": "CMakeFiles/dibujo_lib.dir/src/core/commands/LayerCommands.cpp.obj"
+},
+{
+  "directory": "C:/Users/ulise/OneDrive/Desktop/ProyectoDibujo-26w03b/ProyectoDibujo-26w03b/build",
+  "command": "c:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles\\dibujo_lib.dir\\includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\dibujo_lib.dir\\src\\core\\commands\\StrokeCommand.cpp.obj -c C:\\Users\\ulise\\OneDrive\\Desktop\\ProyectoDibujo-26w03b\\ProyectoDibujo-26w03b\\ProyectoDibujo\\src\\core\\commands\\StrokeCommand.cpp",
+  "file": "C:/Users/ulise/OneDrive/Desktop/ProyectoDibujo-26w03b/ProyectoDibujo-26w03b/ProyectoDibujo/src/core/commands/StrokeCommand.cpp",
+  "output": "CMakeFiles/dibujo_lib.dir/src/core/commands/StrokeCommand.cpp.obj"
+},
+{
+  "directory": "C:/Users/ulise/OneDrive/Desktop/ProyectoDibujo-26w03b/ProyectoDibujo-26w03b/build",
+  "command": "c:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles\\dibujo_lib.dir\\includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\dibujo_lib.dir\\src\\tools\\BuiltinTools.cpp.obj -c C:\\Users\\ulise\\OneDrive\\Desktop\\ProyectoDibujo-26w03b\\ProyectoDibujo-26w03b\\ProyectoDibujo\\src\\tools\\BuiltinTools.cpp",
+  "file": "C:/Users/ulise/OneDrive/Desktop/ProyectoDibujo-26w03b/ProyectoDibujo-26w03b/ProyectoDibujo/src/tools/BuiltinTools.cpp",
+  "output": "CMakeFiles/dibujo_lib.dir/src/tools/BuiltinTools.cpp.obj"
+},
+{
+  "directory": "C:/Users/ulise/OneDrive/Desktop/ProyectoDibujo-26w03b/ProyectoDibujo-26w03b/build",
+  "command": "c:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles\\dibujo_lib.dir\\includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\dibujo_lib.dir\\src\\tools\\EyedropperTool.cpp.obj -c C:\\Users\\ulise\\OneDrive\\Desktop\\ProyectoDibujo-26w03b\\ProyectoDibujo-26w03b\\ProyectoDibujo\\src\\tools\\EyedropperTool.cpp",
+  "file": "C:/Users/ulise/OneDrive/Desktop/ProyectoDibujo-26w03b/ProyectoDibujo-26w03b/ProyectoDibujo/src/tools/EyedropperTool.cpp",
+  "output": "CMakeFiles/dibujo_lib.dir/src/tools/EyedropperTool.cpp.obj"
+},
+{
+  "directory": "C:/Users/ulise/OneDrive/Desktop/ProyectoDibujo-26w03b/ProyectoDibujo-26w03b/build",
+  "command": "c:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles\\dibujo_lib.dir\\includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\dibujo_lib.dir\\src\\tools\\PaintTool.cpp.obj -c C:\\Users\\ulise\\OneDrive\\Desktop\\ProyectoDibujo-26w03b\\ProyectoDibujo-26w03b\\ProyectoDibujo\\src\\tools\\PaintTool.cpp",
+  "file": "C:/Users/ulise/OneDrive/Desktop/ProyectoDibujo-26w03b/ProyectoDibujo-26w03b/ProyectoDibujo/src/tools/PaintTool.cpp",
+  "output": "CMakeFiles/dibujo_lib.dir/src/tools/PaintTool.cpp.obj"
+},
+{
+  "directory": "C:/Users/ulise/OneDrive/Desktop/ProyectoDibujo-26w03b/ProyectoDibujo-26w03b/build",
+  "command": "c:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles\\dibujo_lib.dir\\includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\dibujo_lib.dir\\src\\tools\\ToolManager.cpp.obj -c C:\\Users\\ulise\\OneDrive\\Desktop\\ProyectoDibujo-26w03b\\ProyectoDibujo-26w03b\\ProyectoDibujo\\src\\tools\\ToolManager.cpp",
+  "file": "C:/Users/ulise/OneDrive/Desktop/ProyectoDibujo-26w03b/ProyectoDibujo-26w03b/ProyectoDibujo/src/tools/ToolManager.cpp",
+  "output": "CMakeFiles/dibujo_lib.dir/src/tools/ToolManager.cpp.obj"
+},
+{
+  "directory": "C:/Users/ulise/OneDrive/Desktop/ProyectoDibujo-26w03b/ProyectoDibujo-26w03b/build",
+  "command": "c:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles\\dibujo_lib.dir\\includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\dibujo_lib.dir\\src\\ui\\CanvasView.cpp.obj -c C:\\Users\\ulise\\OneDrive\\Desktop\\ProyectoDibujo-26w03b\\ProyectoDibujo-26w03b\\ProyectoDibujo\\src\\ui\\CanvasView.cpp",
+  "file": "C:/Users/ulise/OneDrive/Desktop/ProyectoDibujo-26w03b/ProyectoDibujo-26w03b/ProyectoDibujo/src/ui/CanvasView.cpp",
+  "output": "CMakeFiles/dibujo_lib.dir/src/ui/CanvasView.cpp.obj"
+},
+{
+  "directory": "C:/Users/ulise/OneDrive/Desktop/ProyectoDibujo-26w03b/ProyectoDibujo-26w03b/build",
+  "command": "c:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles\\dibujo_lib.dir\\includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\dibujo_lib.dir\\src\\ui\\ColorPickerPanel.cpp.obj -c C:\\Users\\ulise\\OneDrive\\Desktop\\ProyectoDibujo-26w03b\\ProyectoDibujo-26w03b\\ProyectoDibujo\\src\\ui\\ColorPickerPanel.cpp",
+  "file": "C:/Users/ulise/OneDrive/Desktop/ProyectoDibujo-26w03b/ProyectoDibujo-26w03b/ProyectoDibujo/src/ui/ColorPickerPanel.cpp",
+  "output": "CMakeFiles/dibujo_lib.dir/src/ui/ColorPickerPanel.cpp.obj"
+},
+{
+  "directory": "C:/Users/ulise/OneDrive/Desktop/ProyectoDibujo-26w03b/ProyectoDibujo-26w03b/build",
+  "command": "c:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles\\dibujo_lib.dir\\includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\dibujo_lib.dir\\src\\ui\\ColorWheelWidget.cpp.obj -c C:\\Users\\ulise\\OneDrive\\Desktop\\ProyectoDibujo-26w03b\\ProyectoDibujo-26w03b\\ProyectoDibujo\\src\\ui\\ColorWheelWidget.cpp",
+  "file": "C:/Users/ulise/OneDrive/Desktop/ProyectoDibujo-26w03b/ProyectoDibujo-26w03b/ProyectoDibujo/src/ui/ColorWheelWidget.cpp",
+  "output": "CMakeFiles/dibujo_lib.dir/src/ui/ColorWheelWidget.cpp.obj"
+},
+{
+  "directory": "C:/Users/ulise/OneDrive/Desktop/ProyectoDibujo-26w03b/ProyectoDibujo-26w03b/build",
+  "command": "c:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles\\dibujo_lib.dir\\includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\dibujo_lib.dir\\src\\ui\\LayersPanel.cpp.obj -c C:\\Users\\ulise\\OneDrive\\Desktop\\ProyectoDibujo-26w03b\\ProyectoDibujo-26w03b\\ProyectoDibujo\\src\\ui\\LayersPanel.cpp",
+  "file": "C:/Users/ulise/OneDrive/Desktop/ProyectoDibujo-26w03b/ProyectoDibujo-26w03b/ProyectoDibujo/src/ui/LayersPanel.cpp",
+  "output": "CMakeFiles/dibujo_lib.dir/src/ui/LayersPanel.cpp.obj"
+},
+{
+  "directory": "C:/Users/ulise/OneDrive/Desktop/ProyectoDibujo-26w03b/ProyectoDibujo-26w03b/build",
+  "command": "c:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles\\dibujo_lib.dir\\includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\dibujo_lib.dir\\src\\ui\\MainWindow.cpp.obj -c C:\\Users\\ulise\\OneDrive\\Desktop\\ProyectoDibujo-26w03b\\ProyectoDibujo-26w03b\\ProyectoDibujo\\src\\ui\\MainWindow.cpp",
+  "file": "C:/Users/ulise/OneDrive/Desktop/ProyectoDibujo-26w03b/ProyectoDibujo-26w03b/ProyectoDibujo/src/ui/MainWindow.cpp",
+  "output": "CMakeFiles/dibujo_lib.dir/src/ui/MainWindow.cpp.obj"
+},
+{
+  "directory": "C:/Users/ulise/OneDrive/Desktop/ProyectoDibujo-26w03b/ProyectoDibujo-26w03b/build",
+  "command": "c:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles\\dibujo_lib.dir\\includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\dibujo_lib.dir\\src\\ui\\ToolOptionsWidget.cpp.obj -c C:\\Users\\ulise\\OneDrive\\Desktop\\ProyectoDibujo-26w03b\\ProyectoDibujo-26w03b\\ProyectoDibujo\\src\\ui\\ToolOptionsWidget.cpp",
+  "file": "C:/Users/ulise/OneDrive/Desktop/ProyectoDibujo-26w03b/ProyectoDibujo-26w03b/ProyectoDibujo/src/ui/ToolOptionsWidget.cpp",
+  "output": "CMakeFiles/dibujo_lib.dir/src/ui/ToolOptionsWidget.cpp.obj"
+},
+{
+  "directory": "C:/Users/ulise/OneDrive/Desktop/ProyectoDibujo-26w03b/ProyectoDibujo-26w03b/build",
+  "command": "c:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles\\dibujo_lib.dir\\includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\dibujo_lib.dir\\src\\ui\\ToolsPanel.cpp.obj -c C:\\Users\\ulise\\OneDrive\\Desktop\\ProyectoDibujo-26w03b\\ProyectoDibujo-26w03b\\ProyectoDibujo\\src\\ui\\ToolsPanel.cpp",
+  "file": "C:/Users/ulise/OneDrive/Desktop/ProyectoDibujo-26w03b/ProyectoDibujo-26w03b/ProyectoDibujo/src/ui/ToolsPanel.cpp",
+  "output": "CMakeFiles/dibujo_lib.dir/src/ui/ToolsPanel.cpp.obj"
+},
+{
+  "directory": "C:/Users/ulise/OneDrive/Desktop/ProyectoDibujo-26w03b/ProyectoDibujo-26w03b/build",
+  "command": "c:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles\\ProyectoDibujo.dir\\includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\ProyectoDibujo.dir\\ProyectoDibujo_autogen\\mocs_compilation.cpp.obj -c C:\\Users\\ulise\\OneDrive\\Desktop\\ProyectoDibujo-26w03b\\ProyectoDibujo-26w03b\\build\\ProyectoDibujo_autogen\\mocs_compilation.cpp",
+  "file": "C:/Users/ulise/OneDrive/Desktop/ProyectoDibujo-26w03b/ProyectoDibujo-26w03b/build/ProyectoDibujo_autogen/mocs_compilation.cpp",
+  "output": "CMakeFiles/ProyectoDibujo.dir/ProyectoDibujo_autogen/mocs_compilation.cpp.obj"
+},
+{
+  "directory": "C:/Users/ulise/OneDrive/Desktop/ProyectoDibujo-26w03b/ProyectoDibujo-26w03b/build",
+  "command": "c:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles\\ProyectoDibujo.dir\\includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\ProyectoDibujo.dir\\src\\main.cpp.obj -c C:\\Users\\ulise\\OneDrive\\Desktop\\ProyectoDibujo-26w03b\\ProyectoDibujo-26w03b\\ProyectoDibujo\\src\\main.cpp",
+  "file": "C:/Users/ulise/OneDrive/Desktop/ProyectoDibujo-26w03b/ProyectoDibujo-26w03b/ProyectoDibujo/src/main.cpp",
+  "output": "CMakeFiles/ProyectoDibujo.dir/src/main.cpp.obj"
+}
+]
