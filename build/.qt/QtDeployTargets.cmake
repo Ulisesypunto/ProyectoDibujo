@@ -1,5 +1,0 @@
-set(__QT_DEPLOY_TARGET_dibujo_lib_FILE C:/Users/ulise/OneDrive/Desktop/ProyectoDibujo-26w03b/ProyectoDibujo-26w03b/build/libdibujo_lib.a)
-set(__QT_DEPLOY_TARGET_dibujo_lib_TYPE STATIC_LIBRARY)
-set(__QT_DEPLOY_TARGET_ProyectoDibujo_FILE C:/Users/ulise/OneDrive/Desktop/ProyectoDibujo-26w03b/ProyectoDibujo-26w03b/build/ProyectoDibujo.exe)
-set(__QT_DEPLOY_TARGET_ProyectoDibujo_TYPE EXECUTABLE)
-set(__QT_DEPLOY_TARGET_ProyectoDibujo_RUNTIME_DLLS C:/Qt/6.11.2/mingw_64/bin/Qt6Widgets.dll;C:/Qt/6.11.2/mingw_64/bin/Qt6Gui.dll;C:/Qt/6.11.2/mingw_64/bin/Qt6Core.dll)

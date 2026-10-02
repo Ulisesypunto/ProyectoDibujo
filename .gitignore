@@ -1,0 +1,18 @@
+# Compilacion
+build/
+bin/
+out/
+*.exe
+*.obj
+*.o
+CMakeCache.txt
+CMakeFiles/
+CMakeUserPresets.json
+
+# Dependencias locales
+vcpkg/
+.deps/
+
+# IDE
+.vs/
+*.user

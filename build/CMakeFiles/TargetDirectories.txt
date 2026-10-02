@@ -1,8 +1,0 @@
-C:/Users/ulise/OneDrive/Desktop/ProyectoDibujo-26w03b/ProyectoDibujo-26w03b/build/CMakeFiles/dibujo_lib.dir
-C:/Users/ulise/OneDrive/Desktop/ProyectoDibujo-26w03b/ProyectoDibujo-26w03b/build/CMakeFiles/ProyectoDibujo.dir
-C:/Users/ulise/OneDrive/Desktop/ProyectoDibujo-26w03b/ProyectoDibujo-26w03b/build/CMakeFiles/edit_cache.dir
-C:/Users/ulise/OneDrive/Desktop/ProyectoDibujo-26w03b/ProyectoDibujo-26w03b/build/CMakeFiles/rebuild_cache.dir
-C:/Users/ulise/OneDrive/Desktop/ProyectoDibujo-26w03b/ProyectoDibujo-26w03b/build/CMakeFiles/dibujo_lib_autogen_timestamp_deps.dir
-C:/Users/ulise/OneDrive/Desktop/ProyectoDibujo-26w03b/ProyectoDibujo-26w03b/build/CMakeFiles/dibujo_lib_autogen.dir
-C:/Users/ulise/OneDrive/Desktop/ProyectoDibujo-26w03b/ProyectoDibujo-26w03b/build/CMakeFiles/ProyectoDibujo_autogen_timestamp_deps.dir
-C:/Users/ulise/OneDrive/Desktop/ProyectoDibujo-26w03b/ProyectoDibujo-26w03b/build/CMakeFiles/ProyectoDibujo_autogen.dir
